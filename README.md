@@ -1,5 +1,6 @@
-# P3
-Concevez une application au service de la santé
+# Concevez une application au service de la santé
+Développer une application à partir de données alimentaires pour prédire le Nutriscore de plats.
+
 
 Effectuer une analyse statistique univariée
 
